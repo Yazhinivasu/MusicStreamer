@@ -1,0 +1,13 @@
+com\letsstartcoding\springboothibernate\WebSecurityConfig.class
+com\letsstartcoding\springboothibernate\dao\UserServiceImpl.class
+com\letsstartcoding\springboothibernate\model\Role.class
+com\letsstartcoding\springboothibernate\dao\UserDetailsServiceImpl.class
+com\letsstartcoding\springboothibernate\model\User.class
+com\letsstartcoding\springboothibernate\validator\UserValidator.class
+com\letsstartcoding\springboothibernate\dao\UserService.class
+com\letsstartcoding\springboothibernate\repository\RoleRepository.class
+com\letsstartcoding\springboothibernate\dao\SecurityServiceImpl.class
+com\letsstartcoding\springboothibernate\repository\UserRepository.class
+com\letsstartcoding\springboothibernate\dao\SecurityService.class
+com\letsstartcoding\springboothibernate\MusicStreamerApplication.class
+com\letsstartcoding\springboothibernate\controller\MusicController.class
